@@ -5,5 +5,5 @@
 
 ## Run (Linux)
 1. Download the files (either via zip or tar.gz).
-2. Run a file:
-3. `lorem ipsum`
+2. Run a file: (bash)
+3. `python3 weight_converter.py`
